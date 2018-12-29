@@ -1,0 +1,20 @@
+{
+  "name": "Movies-RESTapi",
+  "version": "1.0.0",
+  "description": "RESt-api for finding information on movies i.e movie name,review,availability status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RamKrishnan-iramkrish95@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
